@@ -6,7 +6,6 @@ const Card =({name, email, id, username})=>{
     <div>
     <h1>{name}</h1>
     <h2>{email}</h2>
-    <h2>{username}</h2>
     </div>
     </div>
     );
